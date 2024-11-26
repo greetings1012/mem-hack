@@ -1,4 +1,4 @@
-// gcc –o fmtest2 fmtest2.c
+// gcc -o fmtest2 fmtest2.c
 #include <stdio.h>
 int main() {
 	printf(“%d %d %d\n”, 1, 2, 3);
