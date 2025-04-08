@@ -1,3 +1,5 @@
+// 18011974 안영훈
+
 //gcc -o stack1 stack1.c -mpreferred-stack-boundary=4 -fno-stack-protector -z execstack -no-pie -fno-pic
 #include <stdlib.h>
 #include <unistd.h>
