@@ -1,3 +1,5 @@
+// 18011974 안영훈
+
 // sudo sysctl -w kernel.randomize_va_space=2
 // gcc -o stack6 stack6.c -fno-stack-protector -no-pie -fno-pic
 #include <stdio.h>

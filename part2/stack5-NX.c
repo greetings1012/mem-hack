@@ -1,3 +1,5 @@
+// 18011974 안영훈
+
 // gcc -o stack5-NX stack5-NX.c -mpreferred-stack-boundary=4 -fno-stack-protector -no-pie -fno-pic
 #include <stdlib.h>
 #include <unistd.h>
@@ -10,4 +12,3 @@ int main(int argc, char **argv) {
 	printf("Address of the buffer: %p\n", buffer);
 	gets(buffer);
 }
-
