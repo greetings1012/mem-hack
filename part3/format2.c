@@ -1,3 +1,5 @@
+// 18011974 안영훈
+
 // gcc -o format2 format2.c -fno-stack-protector -no-pie -fno-pic
 #include <stdio.h>
 #include <stdlib.h>
