@@ -1,3 +1,6 @@
+// 18011974 안영훈
+
+// canary.c
 // gcc -o no_canary canary.c -fno-stack-protector
 #include <stdio.h>
 #include <unistd.h>
