@@ -1,3 +1,5 @@
+// 18011974 안영훈
+
 // stack8.c
 // sudo sysctl -w kernel.randomize_va_space=2
 // gcc -o stack8 stack8.c -no-pie -fno-PIE
